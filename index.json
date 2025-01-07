@@ -1,0 +1,16 @@
+{
+  "arch": "x86_64",
+  "build": "h8cc25b3_1",
+  "build_number": 1,
+  "depends": [
+    "vc >=14.1,<15.0a0",
+    "vs2015_runtime >=14.16.27012,<15.0a0"
+  ],
+  "license": "LGPL-2.1-or-later and GPL-2.0-or-later and 0BSD",
+  "license_family": "GPL2",
+  "name": "xz",
+  "platform": "win",
+  "subdir": "win-64",
+  "timestamp": 1714515119689,
+  "version": "5.4.6"
+}
